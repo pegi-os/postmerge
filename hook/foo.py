@@ -4,4 +4,4 @@ def foo(param):
     elif param == 1:
         return 0
     else:
-        return 5
+        return 4
